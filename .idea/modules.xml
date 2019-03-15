@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HTML_DB101Demo/.idea/HTML_DB101Demo.iml" filepath="$PROJECT_DIR$/../HTML_DB101Demo/.idea/HTML_DB101Demo.iml" />
+      <module fileurl="file://E:/Python/Homework/Homework/.idea/Homework.iml" filepath="E:/Python/Homework/Homework/.idea/Homework.iml" />
+      <module fileurl="file://E:/Python/Workspace/Workspace/.idea/Workspace.iml" filepath="E:/Python/Workspace/Workspace/.idea/Workspace.iml" />
+    </modules>
+  </component>
+</project>
